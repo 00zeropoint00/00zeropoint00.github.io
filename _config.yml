@@ -3,7 +3,7 @@ title: zeropoint Blog
 SEOTitle: zeropoint | zeropoint Blog
 header-img: img/home-bg.jpg
 email: 18379430218@163.com
-description: "这里是 @zeropoint零点 的个人博客，与你一起发现更大的世界 | 要做一个 严谨 的程序员"
+description: "这里是 @zeropoint零点 的个人博客，logical game never ends"
 keyword: "zeropoint "
 url: "https://zeropoint.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -15,8 +15,8 @@ future: true
 RSS: false
 weibo_username: huxpro
 zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+github_username: 00zeropoint00
+X_username: Sharon Gordon
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
